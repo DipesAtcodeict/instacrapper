@@ -1,0 +1,22 @@
+*,html {
+    padding:0;
+    margin:0;
+}
+
+.header {
+    height: 10vh;
+    background-color: rgb(126, 51, 63);
+    text-align: center;
+}
+
+.app-name {
+    color:greenyellow;
+    font-family: 'Righteous', cursive;
+    font-size: 1.5rem;
+}
+
+.app-desc {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(95, 95, 167);
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.views{
+    display: block;
+    padding: 1rem;
+    background-color: rgb(57, 57, 134);
+}
+
+.maininfo{
+    margin-bottom: 15rem;
+}
+
+.posts {
+    margin:1rem;
+}
